@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650158047318",
+    "project_id": "admob-example-a3288",
+    "storage_bucket": "admob-example-a3288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650158047318:android:48b865a909c864fc20fbf7",
+        "android_client_info": {
+          "package_name": "com.example.admob_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650158047318-s09lume1f7trpnd0av5svv8l1ad4231m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2COfuJl8bBvXhMcDm7hlt_ceSEBQ7Ucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650158047318-s09lume1f7trpnd0av5svv8l1ad4231m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
